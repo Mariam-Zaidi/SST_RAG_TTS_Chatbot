@@ -1,0 +1,10 @@
+openai-whisper
+torch
+torchaudio
+numpy
+ffmpeg-python
+
+scipy
+sounddevice
+python-dotenv
+pyttsx3
